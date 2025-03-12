@@ -1,0 +1,13 @@
+{
+	"type": "material",
+	"name": "voidalite",
+	"description": "A Refined Version of voidium Crystalized from Freezing Pyratite with -InsertNameHereLol-",
+	"cost": 2.2,
+	"flammability": 0.12,
+	"radioactivity": 0.55,
+	"explosiveness": 0.25,
+	"hardness": 4,
+	"healthScaling": 5.25,
+	"charge": 0.78,
+	"color": "007c87"
+} 

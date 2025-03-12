@@ -3,11 +3,11 @@
 	"name": "voidium",
 	"description": "Unknown Potential, But seems to make the booms desired by ones chaos",
 	"cost": 2.2,
-	"flammability": 0.12,
-	"radioactivity": 0.2,
-	"explosiveness": 0.05,
+	"flammability": 0.05,
+	"radioactivity": 0.35,
+	"explosiveness": 0.12,
 	"hardness": 2,
-	"healthScaling": 3.2,
-	"charge": 0.45,
+	"healthScaling": 2.25,
+	"charge": 0.65,
 	"color": "007c87"
 } 
