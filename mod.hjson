@@ -15,8 +15,7 @@ author: "Xaon4207"
 description: "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
 
 #the mod version
-version: 1.1
+version: 1.2.0
 
 #the minimum game build required to run this mod
-minGameVersion: 145
-
+minGameVersion: 160
